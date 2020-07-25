@@ -1,2 +1,2 @@
-text in master
+text in master edit on git
 text in branch without conflicts 1
