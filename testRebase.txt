@@ -1,4 +1,3 @@
 line 1 for 1st commit
 line 2 for 2nd commit
 line 3 for 3rd commit
-line for revert
