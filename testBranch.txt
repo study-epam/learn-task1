@@ -1,2 +1,3 @@
 text in master
 text in new branch without conflicts
+text in branch without conflicts 1
